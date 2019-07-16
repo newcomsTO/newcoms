@@ -1,0 +1,16 @@
+.tnc-groups{
+  vertical-align: middle;
+  border-style: none;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.btn-primary {
+    background-color: rgba(254, 209, 54, 0.47843137254901963);
+    border-color: #fed136;
+}
+
+.job{
+  font-size: 12px;
+  color: #9a1d60;
+}
